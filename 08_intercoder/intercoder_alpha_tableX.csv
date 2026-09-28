@@ -1,0 +1,9 @@
+label,alpha_minh_truc,n,verdict_krippendorff,minh_rate_pos_or_mention,truc_rate_pos_or_mention,note
+R_uncanny,0.2650,200,fail <0.67,0.040,0.060,human↔human on revised sheet exports; asp_product_brand excluded
+R_ai_skepticism,0.3631,200,fail <0.67,0.120,0.090,human↔human on revised sheet exports; asp_product_brand excluded
+S_parasocial,-0.0930,200,fail <0.67,0.630,0.125,human↔human on revised sheet exports; asp_product_brand excluded
+C_commercial,0.6035,200,fail <0.67,0.040,0.025,human↔human on revised sheet exports; asp_product_brand excluded
+asp_appearance,0.2110,200,fail <0.67,0.155,0.105,human↔human on revised sheet exports; asp_product_brand excluded
+asp_voice_motion,0.1369,200,fail <0.67,0.025,0.040,human↔human on revised sheet exports; asp_product_brand excluded
+asp_ai_nature,0.0486,200,fail <0.67,0.010,0.145,human↔human on revised sheet exports; asp_product_brand excluded
+asp_persona,-0.0034,200,fail <0.67,0.005,0.010,human↔human on revised sheet exports; asp_product_brand excluded

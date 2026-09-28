@@ -15,7 +15,7 @@
 | `05_test_inventory` | Pytest collect-only (**718 tests**) |
 | `06_figures` | Hi-res Figure 2–3 PNGs |
 | `07_channel_notes` | Platform, calendar windows, cadence, dropped controls |
-| `08_intercoder_PENDING` | Placeholder for human↔human α after dual coding |
+| `08_intercoder` | Human↔human α Table X (n=200); **0/8 pass 0.67 — see folder README** |
 
 ## How to deposit (you do this on osf.io)
 
@@ -30,7 +30,7 @@
 ## Manuscript sentence (after you have the URL)
 
 ```
-Materials (codebook, per-label confusion matrices, gold-set sampling scheme, automated test inventory, and figures) are deposited at [PASTE OSF/Zenodo URL]. Human↔human inter-coder α on the revised instrument will be added to the same deposit when dual coding of the 200 shared items is complete.
+Materials (codebook, per-label confusion matrices, gold-set sampling scheme, automated test inventory, and figures) are deposited at [PASTE OSF/Zenodo URL]. Human↔human inter-coder α (n=200) is in `08_intercoder/`; **no label reached α ≥ 0.67** — see diagnostic notes there.
 ```
 
 ## License note
