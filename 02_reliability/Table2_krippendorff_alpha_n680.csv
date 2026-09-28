@@ -1,0 +1,9 @@
+nhan,ds_glm,ds_vang,glm_vang
+asp_ai_nature,0.78,0.8,0.81
+C_commercial,0.76,0.78,0.78
+asp_appearance,0.72,0.78,0.71
+R_uncanny,0.71,0.63,0.68
+asp_voice_motion,0.69,0.66,0.59
+S_parasocial,0.61,0.51,0.4
+R_ai_skepticism,0.53,0.48,0.39
+asp_persona,0.36,0.45,0.28
