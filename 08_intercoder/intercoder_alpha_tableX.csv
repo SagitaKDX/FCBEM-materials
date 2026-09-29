@@ -1,9 +1,0 @@
-label,description,alpha_human_human,decision,rate_Minh_vs_Truc,n,coders,instrument
-R_uncanny,Aesthetic / Uncanny Valley resistance,0.26,fail (<0.67),Minh 4.0% / Trúc 6.0%,200,Minh; Truc,revised sheet (chung_minh + gold2_truc_nop1 shared 200)
-R_ai_skepticism,AI-nature skepticism,0.36,fail (<0.67),Minh 12.0% / Trúc 9.0%,200,Minh; Truc,revised sheet (chung_minh + gold2_truc_nop1 shared 200)
-S_parasocial,Parasocial engagement,-0.09,fail (<0.67),Minh 63.0% / Trúc 12.5%,200,Minh; Truc,revised sheet (chung_minh + gold2_truc_nop1 shared 200)
-C_commercial,Commercial acceptance,0.60,fail (<0.67),Minh 4.0% / Trúc 2.5%,200,Minh; Truc,revised sheet (chung_minh + gold2_truc_nop1 shared 200)
-asp_appearance,Aspect: appearance,0.21,fail (<0.67),Minh mention 15.5% / Trúc 10.5%,200,Minh; Truc,revised sheet (chung_minh + gold2_truc_nop1 shared 200)
-asp_voice_motion,Aspect: voice / motion,0.14,fail (<0.67),Minh mention 2.5% / Trúc 4.0%,200,Minh; Truc,revised sheet (chung_minh + gold2_truc_nop1 shared 200)
-asp_ai_nature,Aspect: AI nature,0.05,fail (<0.67),Minh mention 1.0% / Trúc 14.5%,200,Minh; Truc,revised sheet (chung_minh + gold2_truc_nop1 shared 200)
-asp_persona,Aspect: persona,-0.00,fail (<0.67),Minh mention 0.5% / Trúc 1.0%,200,Minh; Truc,revised sheet (chung_minh + gold2_truc_nop1 shared 200)

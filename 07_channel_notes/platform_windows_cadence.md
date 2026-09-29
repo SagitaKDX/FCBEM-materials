@@ -1,6 +1,6 @@
 # Platform, windows, cadence, dropped controls
 
-Copied from manuscript wording (English paper / Downloads v2):
+Summary of manuscript Sections 3.1–3.2 and the post-level metadata paragraph in Section 3.
 
 ## Platform and inclusion
 - All 1,012 posts collected from **Facebook only** (public pages/profiles).
@@ -22,7 +22,7 @@ Copied from manuscript wording (English paper / Downloads v2):
 | Hiếu Hoài | 10.3 |
 | Quyên Nguyễn | 13.8 |
 
-**Follower counts** at a fixed snapshot date were not available in the analysis files and are omitted rather than estimated. If a snapshot is obtained later, add `followers_snapshot.csv` here and update Table 1.
+**Follower counts** at a fixed snapshot date were not available in the analysis files and are omitted rather than estimated.
 
 ## Dropped post-level controls (914/1,012 posts lack usable captions)
 Available fields used in modelling: post identity, VI channel, calendar/`week_num`, media type (reel vs mixed).

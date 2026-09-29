@@ -1,4 +1,11 @@
-# Reliability tables (as reported in the manuscript)
+# Reliability (manuscript Table 2 / Figure 2)
 
-- `Table2_krippendorff_alpha_n680.csv` — columns `ds_glm`, `ds_vang`, `glm_vang` = DeepSeek↔GLM, DeepSeek↔gold, GLM↔gold Krippendorff α by label (n = 680 comparable comments). This is **human–model / cross-model** reliability (manuscript Table 2 / Figure 2), **not** human↔human inter-coder α.
-- Human↔human inter-coder α on the **revised** instrument will be added under `08_intercoder_PENDING/` after dual coding of the 200 shared items is complete.
+`Table2_krippendorff_alpha_n680.csv` gives Krippendorff's α by label on n = 680 comments comparable across three pairings:
+
+| Column | Pairing |
+|---|---|
+| `ds_glm` | DeepSeek-V4-Flash ↔ GLM-5.2 |
+| `ds_vang` | DeepSeek-V4-Flash ↔ gold set |
+| `glm_vang` | GLM-5.2 ↔ gold set |
+
+This is human–model and cross-model reliability. Human–human inter-coder α on the revised instrument is in `../08_intercoder/`.

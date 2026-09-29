@@ -1,13 +1,7 @@
 # Automated test inventory
 
-Verified locally on package build date:
+`pytest_collect_only.txt` lists every test in the collection and processing pipeline, as produced by `pytest --collect-only -q` at the repository root.
 
-```
-['test_absa_gan_nhan_moi.py::test_quayroi_muc_do_la_thanh_khong', 'test_absa_gan_nhan_moi.py::test_quayroi_lo_rong_van_chay_duoc', '718 tests collected in 0.37s']
-```
+**718 tests collected.**
 
-**Count: 718 tests collected** (`pytest --collect-only -q` from repository root).
-
-This matches the manuscript claim of a large automated guard on processing steps (historically phrased as “718 automated tests”).
-
-Full list: `pytest_collect_only.txt`.
+The tests cover URL classification, comment expansion and ordering, timestamp parsing, deduplication, author linking, storage, and the labelling pipeline.
